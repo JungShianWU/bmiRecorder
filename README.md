@@ -1,0 +1,29 @@
+# BMI-Recorder with json Server
+Recorder your body
+## `介紹：`
+前端：React Redux Reduxform axios React-thunk
+後端：Json Server ||  mongoDB
+
+1.使用google登入<br/>
+2.表單驗證
+
+
+## `Demo:`
+https://bmirecoder.herokuapp.com/  <br/>
+後端使用：mongoDB
+
+### `npm install`
+
+### `npm start`
+
+<h3 href="https://github.com/typicode/json-server">About JSON Server : <h3>
+  
+<h6>Open [http://localhost:3030](http://localhost:3030) to view it in the browser.<h5>
+
+<h3>About client web-App: </h3>
+
+<h6>Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<h5>
+
+
+
+# bmiRecorder
