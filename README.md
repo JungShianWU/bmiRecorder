@@ -6,10 +6,12 @@ Recorder your body
 
 1.使用google登入<br/>
 2.表單驗證
+3.功能有紀錄,編輯,刪除
 
 
 ## `Demo:`
 https://bmirecoder.herokuapp.com/  <br/>
+註：若30分鐘內無人使用需等待幾秒喚醒。
 後端使用：mongoDB
 
 ### `npm install`
