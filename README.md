@@ -5,7 +5,7 @@ Recorder your body
 後端：Json Server ||  mongoDB
 
 1.使用google登入<br/>
-2.表單驗證
+2.表單驗證<br/>
 3.功能有紀錄,編輯,刪除
 
 
