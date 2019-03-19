@@ -14,6 +14,8 @@ https://bmirecoder.herokuapp.com/  <br/>
 註：若30分鐘內無人使用需等待幾秒喚醒。
 後端使用：mongoDB
 
+<img src="https://github.com/JungShianWU/bmiRecorder/blob/master/Demopic.png">
+
 ### `npm install`
 
 ### `npm start`
